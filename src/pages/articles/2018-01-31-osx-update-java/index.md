@@ -1,5 +1,5 @@
 ---
-title: "OSX Java Update"
+title: "OSX Java 업데이트하기"
 date: 2018-01-31 20:00:00
 layout: post
 draft: false

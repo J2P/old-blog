@@ -1,5 +1,5 @@
 ---
-title: "JavaScript Array Mutator methods"
+title: "JavaScript Array 변경 함수"
 date: 2018-01-24
 layout: post
 draft: false
